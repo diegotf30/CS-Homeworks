@@ -1,2 +1,2 @@
 # Matrices
-This is a simple program to make basic arithmetic operations with square matrices
+This program to makes basic arithmetic operations (+, -, *, / and Transposition) with square matrices
