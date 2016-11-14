@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1479138181 source:c:\users\diego\onedrive\documentos\github\cs-homeworks\matrices\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+
