@@ -1,2 +1,2 @@
-# Matrices
-This program to makes basic arithmetic operations (+, -, *, / and Transposition) with square matrices
+# CS-Homeworks
+This repository contains all my work from my OOP class (Aug - Dec 2016)
