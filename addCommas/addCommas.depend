@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1479245526 source:c:\users\diego\onedrive\documentos\github\cs-homeworks\addcommas\main.cpp
+	<fstream>
+	<string>
+	<iostream>
+
