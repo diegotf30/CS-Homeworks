@@ -1,0 +1,10 @@
+www.spotify.com
+194.65.68.28
+www.cisco.com
+23.0.38.79
+www.google.com
+172.217.0.228
+www.twitter.com
+103.224.182.210
+www.itesm.mx
+200.34.200.92

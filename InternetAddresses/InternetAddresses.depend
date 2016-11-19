@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1479514463 source:c:\users\diego\onedrive\documentos\github\cs-homeworks\internetaddresses\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	"InetAddress.h"
+
+1479514299 c:\users\diego\onedrive\documentos\github\cs-homeworks\internetaddresses\include\inetaddress.h
+	<iostream>
+	<string>
+	<fstream>
+
+1479514353 source:c:\users\diego\onedrive\documentos\github\cs-homeworks\internetaddresses\src\inetaddress.cpp
+	"InetAddress.h"
+	<iostream>
+	<string>
+	<fstream>
+
