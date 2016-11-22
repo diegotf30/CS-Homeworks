@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1479839521 source:c:\users\diego\onedrive\documentos\github\cs-homeworks\rationalnumbers\main.cpp
+	<iostream>
+	<RationalNumber.h>
+
+1479839144 c:\users\diego\onedrive\documentos\github\cs-homeworks\rationalnumbers\include\rationalnumber.h
+	<iostream>
+
+1479839315 source:c:\users\diego\onedrive\documentos\github\cs-homeworks\rationalnumbers\src\rationalnumber.cpp
+	"RationalNumber.h"
+	<iostream>
+
