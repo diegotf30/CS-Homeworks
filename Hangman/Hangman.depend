@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1479777902 source:c:\users\diego\onedrive\documentos\github\cs-homeworks\hangman\src\hangman.cpp
+	"Hangman.h"
+
+1479777798 c:\users\diego\onedrive\documentos\github\cs-homeworks\hangman\include\hangman.h
+	<string>
+	<iostream>
+
+1479786646 source:c:\users\diego\onedrive\documentos\github\cs-homeworks\hangman\main.cpp
+	<string>
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<ctime>
+	"Hangman.h"
+
