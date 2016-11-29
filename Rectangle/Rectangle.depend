@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1480463166 source:c:\users\diego\onedrive\documentos\github\cs-homeworks\rectangle\main.cpp
+	<iostream>
+	<string>
+	"Rectangle.h"
+
+1480463189 c:\users\diego\onedrive\documentos\github\cs-homeworks\rectangle\include\rectangle.h
+
+1480463227 source:c:\users\diego\onedrive\documentos\github\cs-homeworks\rectangle\src\rectangle.cpp
+	"Rectangle.h"
+	<iostream>
+
