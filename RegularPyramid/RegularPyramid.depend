@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1507401654 source:c:\users\diego\onedrive\documentos\github\cs-homeworks\regularpyramid\main.cpp
+	<iostream>
+	"RegularPyramid.h"
+
+1507401665 c:\users\diego\onedrive\documentos\github\cs-homeworks\regularpyramid\include\regularpyramid.h
+	"Triangle.h"
+
+1507400671 c:\users\diego\onedrive\documentos\github\cs-homeworks\regularpyramid\include\triangle.h
+
