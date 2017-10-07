@@ -1,4 +1,4 @@
-///Programmer: Diego Treviño.
+///Programmer: Diego Treviï¿½o.
 ///This program does basic operations on the class Rectangle based on user input.
 ///		It draws the rectangle accordingly.
 
@@ -28,7 +28,7 @@ int main()
     double dBase;
     double dHeight;
     Rectangle rect1, rect2, rect3;
-2
+
     dArea = rect1.calcArea();
     dPerimeter = rect1.calcPerimeter();
     rect1.draw();
