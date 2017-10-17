@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1508214855 source:c:\users\diego\onedrive\documentos\github\cs-homeworks\oop\circle\main.cpp
+	<iostream>
+	"Circle.h"
+
+1508214887 c:\users\diego\onedrive\documentos\github\cs-homeworks\oop\circle\include\circle.h
+
+1508214556 source:c:\users\diego\onedrive\documentos\github\cs-homeworks\oop\circle\src\circle.cpp
+	"Circle.h"
+	<math.h>
+	<iostream>
+
