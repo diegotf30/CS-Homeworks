@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1508216607 source:c:\users\diego\onedrive\documentos\github\cs-homeworks\robot\main.cpp
+	<iostream>
+	<string>
+	"Arm.h"
+	"Leg.h"
+	"Camera.h"
+	"Robot.h"
+
+1508215878 c:\users\diego\onedrive\documentos\github\cs-homeworks\robot\include\arm.h
+	<iostream>
+	<fstream>
+
+1508216363 c:\users\diego\onedrive\documentos\github\cs-homeworks\robot\include\leg.h
+	<iostream>
+	<fstream>
+
+1508216546 c:\users\diego\onedrive\documentos\github\cs-homeworks\robot\include\camera.h
+	<string>
+	<iostream>
+	<fstream>
+
+1508216615 c:\users\diego\onedrive\documentos\github\cs-homeworks\robot\include\robot.h
+	"Arm.h"
+	"Leg.h"
+	"Camera.h"
+	<iostream>
+	<string>
+
