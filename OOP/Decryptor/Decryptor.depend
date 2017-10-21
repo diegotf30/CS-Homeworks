@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1508612740 source:c:\users\diego\onedrive\documentos\github\cs-homeworks\oop\decryptor\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	"Encryptor.h"
+
+1508612644 c:\users\diego\onedrive\documentos\github\cs-homeworks\oop\decryptor\include\encryptor.h
+	<string>
+
