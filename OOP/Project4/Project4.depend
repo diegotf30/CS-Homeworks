@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1509556458 source:c:\users\diego\onedrive\documentos\github\cs-homeworks\oop\project4\main.cpp
+	<iostream>
+	<string>
+	"Assembler.h"
+	"CPU.h"
+
+1509556480 c:\users\diego\onedrive\documentos\github\cs-homeworks\oop\project4\include\assembler.h
+	<string>
+	<fstream>
+
+1509556340 c:\users\diego\onedrive\documentos\github\cs-homeworks\oop\project4\include\cpu.h
+	<iostream>
+	<fstream>
+	<vector>
+	<stdlib.h>
+
