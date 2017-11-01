@@ -1,4 +1,34 @@
 # depslib dependency file v1.0
-1509513251 source:c:\users\diego\onedrive\documentos\github\cs-homeworks\oop\project3\main.cpp
+1509514652 source:c:\users\diego\onedrive\documentos\github\cs-homeworks\oop\project3\main.cpp
 	<iostream>
+	"Race.h"
+	"Hare.h"
+	"Tortoise.h"
+
+1509513681 source:c:\users\diego\onedrive\documentos\github\cs-homeworks\oop\project3\src\hare.cpp
+	"Hare.h"
+
+1509513429 c:\users\diego\onedrive\documentos\github\cs-homeworks\oop\project3\include\hare.h
+	<cstdlib>
+	<ctime>
+	<string>
+	<math.h>
+
+1509514390 c:\users\diego\onedrive\documentos\github\cs-homeworks\oop\project3\include\race.h
+	<string>
+	"Tortoise.h"
+	"Hare.h"
+
+1509513788 c:\users\diego\onedrive\documentos\github\cs-homeworks\oop\project3\include\tortoise.h
+	<cstdlib>
+	<ctime>
+	<string>
+	<math.h>
+
+1509514506 source:c:\users\diego\onedrive\documentos\github\cs-homeworks\oop\project3\src\race.cpp
+	"Race.h"
+	<iostream>
+
+1509513900 source:c:\users\diego\onedrive\documentos\github\cs-homeworks\oop\project3\src\tortoise.cpp
+	"Tortoise.h"
 
