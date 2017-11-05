@@ -1,0 +1,35 @@
+//Data legend: container id (>1000) and container type 1=manual, 2=RFID
+2479 1
+4 boxes of apples
+10 boxes of pears
+2480 1
+5 boxes of naranjas
+11 boxes of mangos
+2485 1
+15 boxes of platanos
+20 boxes of papayas
+2490 1
+30 boxes of strawberries
+45 boxes of guavas
+10 boxes of lemons
+8790 2
+box of pears
+box of apples
+box of pears
+8423 2
+box of apples
+box of apples
+box of pears
+8571 2
+box of strawberries
+box of guavas
+box of lemons
+box of lemons
+box of lemons
+8945 2
+box of naranjas
+box of mangos
+box of naranjas
+box of mangos
+box of naranjas
+box of mangos

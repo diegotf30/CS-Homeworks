@@ -13,6 +13,7 @@
 				<Option compiler="gcc" />
 				<Compiler>
 					<Add option="-g" />
+					<Add directory="include" />
 				</Compiler>
 			</Target>
 			<Target title="Release">
@@ -22,6 +23,7 @@
 				<Option compiler="gcc" />
 				<Compiler>
 					<Add option="-O2" />
+					<Add directory="include" />
 				</Compiler>
 				<Linker>
 					<Add option="-s" />
@@ -32,7 +34,13 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="include/CargoContainer.h" />
+		<Unit filename="include/Manual.h" />
+		<Unit filename="include/RFID.h" />
 		<Unit filename="main.cpp" />
+		<Unit filename="src/CargoContainer.cpp" />
+		<Unit filename="src/Manual.cpp" />
+		<Unit filename="src/RFID.cpp" />
 		<Extensions>
 			<code_completion />
 			<envvars />
