@@ -13,7 +13,7 @@
  *       Compiler:  gcc
  *
  *         Author:  Diego E. Treviño Ferrer A00819313
- *   Organization:  ITEaSM Campus Monterrey
+ *   Organization:  ITESM Campus Monterrey
  *
  * =====================================================================================
  */
